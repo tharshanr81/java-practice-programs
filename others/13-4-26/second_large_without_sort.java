@@ -1,0 +1,8 @@
+class second_large_without_sort
+{
+	public static void main(String[] args){
+		int[] arr={12,78,34,13};
+	int firstMax=0;
+	int secondMax=0;
+	for(int i=0
+}
